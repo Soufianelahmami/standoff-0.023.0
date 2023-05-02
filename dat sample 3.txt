@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"How to use this app 1","desc":"Standoff 0.023.0 is a software library designed for managing annotations in natural language processing (NLP) tasks. It is an open-source library that provides a simple and effective way to create, manage, and manipulate annotations in various formats.","photo":"https://iili.io/HSuTZSj.jpg"},
+  {"title":"helper mod 2","desc":"This library is widely used in academic and industrial research settings and has become a popular tool for researchers and developers working in the field of NLP.","photo":"https://iili.io/HSuTLKu.jpg"},
+  {"title":"advice pack 3","desc":"The purpose of Standoff 0.023.0 is to provide a way to represent and manipulate annotations in a standardized way. Annotations are a critical part of NLP tasks, as they provide a way to label and categorize the data being processed. ","photo":"https://iili.io/HSuTQcb.jpg"},
+  {"title":"tips mod 4","desc":"These annotations are used in various NLP tasks, such as named entity recognition, part-of-speech tagging, and sentiment analysis. Standoff 0.023.0 provides a way to create and manage these annotations in a standardized way, making it easier for developers to work with annotated data.","photo":"https://iili.io/HSuTDHx.jpg"},
+  {"title":"advance pack 5","desc":"One of the key features of Standoff 0.023.0 is its support for various annotation formats. The library supports the widely used standoff format, which separates the text being annotated from the annotations themselves.","photo":"https://iili.io/HSuTbAQ.jpg"},
+  {"title":"helper pack 6","desc":"This format is particularly useful when working with large datasets, as it allows annotations to be stored separately from the text being annotated, ","photo":"https://iili.io/HSuTpDB.jpg"},
+  {"title":"how to use this app 7","desc":"making it easier to manage and manipulate the data. The library also supports other formats, such as the BioNLP format, which is used in biomedical research.","photo":"https://iili.io/HSuTmNV.webp"},
+  {"title":"tips mod 8","desc":"Another key feature of Standoff 0.023.0 is its support for multiple programming languages. The library is written in Python and provides a Python API for creating and manipulating annotations. However, the library also provides support for other programming languages, ","photo":"https://iili.io/HSuu9oP.jpg"}
    ]
  
 }
